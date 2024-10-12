@@ -5,7 +5,7 @@
 # Book 5  |  From Basic Arithmetic to Machine Learning
 # Published and copyrighted by Tsinghua University Press
 # Beijing, China, 2022
-###############
+############
 
 import numpy as np
 import statsmodels.api as sm
